@@ -1,0 +1,1 @@
+putas "LIP*LIPライブ楽しみ"

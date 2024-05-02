@@ -8,3 +8,5 @@ b=24
 ans=a*b
 
 puts ans
+
+puts"やっほー(05/02)"
